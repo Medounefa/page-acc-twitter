@@ -11,3 +11,68 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  overflow-x: hidden;
+}
+.icon-twitter{
+  position: relative;
+  top: 38px;
+  right: 160px;
+  color: #1D9BF0;
+  font-size: 40px;
+}
+.happ{
+  margin-top: 85px;
+  color: #000;
+  font-weight: bold;
+  font-family: 'Poppins';
+  width: 900px;
+  position: relative;
+  letter-spacing: 2px;
+  font-size: 54px;
+}
+.join{
+  margin-top: 45px;
+  font-weight: bold;
+  color: #000;
+  font-size: 34px;
+  margin-right: 62px;
+}
+.reseau {
+  text-decoration: none;
+  color: #000;
+  border:1px solid grey;
+  padding: 10px 25px;
+  border-radius: 20px;
+  font-weight: bold;
+  position: relative;
+  top: 44px;
+  right: 30px;
+  font-size: 14px;
+}
+.politic{
+  width: 400px;
+  margin-top: 67px;
+  margin-left: 240px;
+  text-align: left;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.sign{
+  position: relative;
+  right: 47px;
+  bottom: 12px;
+}
+.lien_menu{
+  text-decoration: none;
+  margin: 12px 5px;
+  margin-right: 12px;
+  font-size: 12px;
+  color: grey
+}
+.dev_by{
+  font-size: 12px;
+  color: grey;
+  margin-top: 12px;
+}
